@@ -1,6 +1,6 @@
 miLista = [10, 5, 2, 10, 3, 10, 7, 7, 3, 7]
 
-# Accede a la posicion de la lista.
+# Devuelve el valor que se encuentra en la posicion dada
 print(miLista[2])
 # Imprime los valores de las posiciones que se encuentran desde el primer limite inferior hasta antes del limite superior
 print(miLista[1:4])

@@ -1,3 +1,4 @@
+# Estructura basica de una funcion
 # def nombre_funcion(parametros):
 #  instrucciones
 #  return(opcional si regresa valores la funcion)
